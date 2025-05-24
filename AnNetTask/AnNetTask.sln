@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnNetTask", "AnNetTask.csproj", "{A129F05D-BDF3-4454-8A0C-225B82441BE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailTests", "..\EmailTests\EmailTests.csproj", "{6FDEE5C0-1C9B-49A8-8483-2701E8438E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A129F05D-BDF3-4454-8A0C-225B82441BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A129F05D-BDF3-4454-8A0C-225B82441BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A129F05D-BDF3-4454-8A0C-225B82441BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A129F05D-BDF3-4454-8A0C-225B82441BE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FDEE5C0-1C9B-49A8-8483-2701E8438E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FDEE5C0-1C9B-49A8-8483-2701E8438E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FDEE5C0-1C9B-49A8-8483-2701E8438E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FDEE5C0-1C9B-49A8-8483-2701E8438E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3210E6B-9DDA-4BB0-80CD-FA2FD3B3038E}
+	EndGlobalSection
+EndGlobal
